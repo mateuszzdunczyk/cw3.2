@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508698676 source:c:\users\xxx\desktop\mechatronika\programowanie obiektowe\zajecia 2\cw3\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	<stdexcept>
+	<limits>
+
